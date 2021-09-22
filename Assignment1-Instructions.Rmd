@@ -142,6 +142,7 @@ Your **Bibliography** section should include a list of well-formatted citations.
 The goal of the Appendix is to include any secondary information to the reader.
 
 Your **Appendix** section should include the following:
+
 - A `glimpse()` of the data (for us to check the variables match that of the survey and the sample size is sufficient).
 - Any additional plots or calculations that are not of primary necessity to the report, but should be included for completion-sake.
 
